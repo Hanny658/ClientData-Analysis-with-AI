@@ -1,0 +1,22 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Status,Text Area 1,Comments
+1,Document,,,,,,,,,Draft,Data2Client Flowchart,
+2,Page,,,,,,,,,,Page 1,
+3,App Service Plans,Azure 2021,2,,,,,,,,Domain Server,
+4,Code,Azure 2021,2,,,,,,,,Apache Storm (Crawling-Java),
+5,Workspaces,Azure 2021,2,,,,,,,,Elastic Research,
+6,App Services,Azure 2021,2,,,,,,,,Internet,
+7,Groups,Azure 2021,2,,,,,,,,Clients,
+8,Log Analytics Workspaces,Azure 2021,2,,,,,,,,ERP-CRM System,
+9,Machine Learning Studio Workspaces,Azure 2021,2,,,,,,,,Analytics Models,
+10,Cognitive Services,Azure 2021,2,,,,,,,,ChatGPT (4.0+),
+11,Bot Services,Azure 2021,2,,,,,,,,Open-Source Models (Hugging Face),
+12,Line,,2,,,,,None,Arrow,,2,
+13,Line,,2,,,,,None,Arrow,,1,
+14,Line,,2,,,,,Arrow,Arrow,,3,
+15,Line,,2,,,,,Arrow,Arrow,,4,
+16,Line,,2,,,,,Arrow,Arrow,,7,
+17,Line,,2,,,,,Arrow,Arrow,,5,
+18,Line,,2,,,,,Arrow,Arrow,,6,
+19,Line,,2,,,,,None,Arrow,,Enpowers,
+20,Line,,2,,,,,None,Arrow,,Enpowers,
+21,Line,,2,,,,,Arrow,None,,Model Prototyping,
